@@ -1,3 +1,5 @@
+# Bayesian Classification
+
 Demonstration of different Machine Learning techniques for classification tasks using the US Census Adult Data Set as an example. 
 
 The objective is to compare the Bayesian implementation of Logistic Regression and Bayes Discriminant Rule with alternative techniques.
